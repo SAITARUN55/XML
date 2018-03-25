@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+<!DOCTYPE book SYSTEM "book.dtd">
+
+ <bookstore>   
+  <book>
+	<title>A</title>
+	<author>auth1</author>
+	<isbn>isbn1</isbn>
+      <publisher>pub1</publisher>
+      <edition>ed1</edition>
+      <price>100</price>
+  </book>
+     
+     <book>
+	<title>B</title>
+	<author>auth2</author>
+	<isbn>isbn2</isbn>
+    <publisher>pub2</publisher>
+    <edition>ed2</edition>
+    <price>200</price>
+     </book>
+        
+     <book>
+        <title>C</title>
+	<author>auth3</author>
+	<isbn>isbn3</isbn>
+      <publisher>pub3</publisher>
+      <edition>ed3</edition>
+      <price>300</price>
+  </book>
+     
+     <book>
+	<title>D</title>
+	<author>auth4</author>
+	<isbn>isbn4</isbn>
+    <publisher>pub4</publisher>
+    <edition>ed4</edition>
+    <price>400</price>
+	
+  </book>
+
+</bookstore>
